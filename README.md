@@ -4,7 +4,7 @@
         src="programmer2.png" width="350"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
-        I am a <b>A Backend developer</b> 🚀 .<br />
+        I am a <b> Backend developer</b> 🚀 .<br />
         I love learning new technologies and building some projects 😍, and most of them are <b>Open source</b>. </p>
 </div>
 
