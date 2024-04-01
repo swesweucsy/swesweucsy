@@ -29,8 +29,6 @@
         </ul>
     </div>
 </div>
-
-<hr />
 </br>
 <!-- <div align="center">
     <img src="https://komarev.com/ghpvc/?username=swesweucsy&color=brightgreen&style=flat-square&label=PROFILE+VIEWS%20+"
